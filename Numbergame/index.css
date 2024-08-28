@@ -1,0 +1,38 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f8ff;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#game {
+    margin-bottom: 20px;
+}
+
+input[type="number"] {
+    padding: 5px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+#feedback {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+#scoreboard {
+    margin-top: 20px;
+}
